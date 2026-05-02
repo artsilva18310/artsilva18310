@@ -33,6 +33,7 @@
 🔹 Sistema de gerenciamento de oficina (Java + PostgreSQL)  
 🔹 Sistema de login com controle de usuários  
 🔹 Exercícios práticos de programação  
+🔹 Site de combate as fraudes
 
 ---
 
