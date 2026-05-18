@@ -8,22 +8,22 @@
 
 ## 🛠️ Tecnologias e Conhecimentos
 
-💻 Desenvolvimento:
-- Java (POO, Swing)
+### 💻 Desenvolvimento
+- Java (POO e Swing)
 - HTML, CSS e JavaScript
 - PHP básico
 
-🗄️ Banco de Dados:
+### 🗄️ Banco de Dados
 - SQL / PostgreSQL
 - Modelagem de Banco de Dados
 
-🌐 Redes:
+### 🌐 Redes
 - Modelo TCP/IP
 - Endereçamento IP
 - Noções de DNS e DHCP
 - Configuração básica de rede
 
-⚙️ Ferramentas:
+### ⚙️ Ferramentas
 - Git e GitHub
 
 ---
@@ -33,23 +33,29 @@
 🔹 Sistema de gerenciamento de oficina (Java + PostgreSQL)  
 🔹 Sistema de login com controle de usuários  
 🔹 Exercícios práticos de programação  
-🔹 Site de combate as fraudes
+🔹 Site de combate a fraudes  
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=artsilva18310&show_icons=true&theme=tokyonight"/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=artsilva18310&show_icons=true&theme=tokyonight)
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=artsilva18310&layout=compact&theme=tokyonight"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artsilva18310&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=artsilva18310&theme=tokyonight"/>
+</p>
+
 ---
 
 ## 📫 Contato
 
 📧 Email: arthurmarcel42@gmail.com  
-📱 Telefone: 51995326219  
+📱 Telefone: (51) 99532-6219  
 
 ---
 
-✨ Sempre buscando aprender mais e evoluir na área de tecnologia
+✨ Sempre buscando aprender mais e evoluir na área de tecnologia.
