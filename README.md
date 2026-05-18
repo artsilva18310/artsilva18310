@@ -40,9 +40,9 @@
 ## 📈 Estatísticas do GitHub
 
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=artsilva18310&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Stats](https://github-readme-stats.vercel.app/api?username=artsilva18310&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artsilva18310&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artsilva18310&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Contato
